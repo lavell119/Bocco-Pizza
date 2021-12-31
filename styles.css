@@ -176,7 +176,7 @@ body {
 }
 
 .menu-snippet-1 {
-    background-image: url("images/meatball.jpg");    
+    background-image: url("images/meatball-parmigiana.jpg");    
 }
 
 .snippet-2 {
@@ -184,7 +184,8 @@ body {
     display: flex;
     justify-content: center; 
     align-items: center;
-    flex-direction: column;  
+    flex-direction: column; 
+    background-image: url("images/black-background.jpg"); 
 }
 
 .menu-snippet-left {
@@ -273,6 +274,10 @@ body {
     height: 40%;
     position: relative;
 
+}
+
+.at-participating {
+    color: white;
 }
 
 .ms2-row-1 {
