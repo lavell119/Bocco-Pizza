@@ -423,7 +423,9 @@ body {
 }
 
 .section-2 {
-    background-image: url("images/outside.png");
+    background-image: url("images/outside2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 90vh;
     width: 100%;
 }
